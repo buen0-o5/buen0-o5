@@ -1,9 +1,4 @@
 ##
-
-<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Brenda Aniceto
-
-
 ⚡  Estudo desenvolvimento de software web, mobile e desktop com foco em gestão empresarial e comercial
 
 <div style="display: inline_block"><br>
