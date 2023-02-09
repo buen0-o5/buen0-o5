@@ -1,4 +1,7 @@
 ##
+<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Brenda Aniceto
+ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
+
 ⚡  Estudo desenvolvimento de software web, mobile e desktop com foco em gestão empresarial e comercial
 
 <div style="display: inline_block"><br>
