@@ -2,7 +2,7 @@
 <h1 alinhar="left">Olá, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> me chamo Brenda Aniceto
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" largura="30"></h1 >
 
-⚡  Atualmente, estou em busca de novas oportunidades profissionais que me permitam aplicar e expandir meus conhecimentos em tecnologia. Sou uma pessoa apaixonada por aprendizado contínuo e estou constantemente buscando formas de aprimorar minhas habilidades.
+⚡  Atualmente, estou em busca da minha primeira oportunidade profissional na área de tecnologia, onde poderei aplicar e expandir os conhecimentos que adquiri ao longo dos meus estudos e experiências. Sou uma pessoa apaixonada por aprendizado contínuo e estou constantemente buscando formas de aprimorar minhas habilidades. 
 
 <div estilo="exibição: inline_block"><br>
  <div style="display: inline_block"><br>
